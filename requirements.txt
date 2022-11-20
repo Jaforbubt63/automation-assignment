@@ -1,0 +1,11 @@
+
+Steps to run the project:
+- Open project on IDE (Recommend IntelliJ IDEA)
+- Run TestCase.java file (file location .\src\test\java\test_cases\TestCase.java)
+- DATA.json file will be generated in this location: .\src\main\resources
+
+
+Please make sure that in your device, there must be IntelliJ IDEA and Java 8 installed.
+If not then go the link and download IntelliJ IDEA  and Java 8 then install your device
+IntelliJ IDEA : https://www.jetbrains.com/idea/download/#section=mac
+Java 8 : version 8 or greater
